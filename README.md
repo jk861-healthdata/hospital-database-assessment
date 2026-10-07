@@ -11,13 +11,13 @@ The hospital database I have created is streamlined to ensure that only relevant
 
 ## Repository Structure
 
-hospital-database-assessment/
-  planning_docs/
-    Entity Relationship Diagram.xlsx
-    Pseudocode.pdf
-  SQL/
-    SQL Queries.pdf
-  README.md
+- hospital-database-assessment/
+-  planning_docs/
+-    Entity Relationship Diagram.xlsx
+-    Pseudocode.pdf
+-  SQL/
+-    SQL Queries.pdf
+-  README.md
   
 ## Entity Relationship Diagram (ERD)
 
