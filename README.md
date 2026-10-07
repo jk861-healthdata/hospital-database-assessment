@@ -70,6 +70,12 @@ The SQL Queries document has been created using Microsoft Word and exported as a
 
 All SQL queries were tested in MySQL and outputs are included in the document.
 
+## Short Report
+
+Location: /hospital-database-assessment/Short_Report_HPDM206Z.pdf
+
+The Short Report provides a structured summary of the assignment and the processes involved in designing and implementing the hospital database. It outlines the planning stages, database design, MySQL implementation, SQL query development, and use of GitHub. The report also includes a statement on the ethical use of AI and a final reflection on the learning gained throughout the assessment and how this will inform future academic work.
+
 ## References
 
 Location: /hospital-database-assessment/planning_docs/Reference List.pdf
