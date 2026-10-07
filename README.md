@@ -35,10 +35,19 @@ Key Relationships:
 
 ## Pseudocode
 
-The pseudocode used in this assignment has been documented within Microsoft Word and exported as a PDF file. This is stored in the repository under '/planning_docs/Pseudocode.pdf'. It reflects the final database schema and SQL query logic implemented in MySQL. I decided to amend the pseudocode following its implementation in MySQL as the outcomes change in light of new information. A narrative around those changes is available to read in the Short Report document.
+Location: /hospital-database-assessment/planning_docs/Entity Relationship Diagram.xlsx
 
+The pseudocode used in this assignment has been documented within Microsoft Word and exported as a PDF file. It reflects the final database schema and SQL query logic implemented in MySQL. I decided to amend the pseudocode following its implementation in MySQL as the outcomes change in light of new information. A narrative around those changes is available to read in the Short Report document.
+
+Contents:
+- Database Creation
+- Table Definitions
+- Data Loading from CSV Files
+- Logical Steps for SQL Queries
 
 ## SQL Queries
+
+Location: /hospital-database-assessment/SQL/SQL Queries.pdf
 
 The SQL Queries document has been created using Microsoft Word and exported as a PDF file. This represents the finalised SQL queries used to extract the data required by the assignment. These include:
 
@@ -48,3 +57,5 @@ The SQL Queries document has been created using Microsoft Word and exported as a
 - Adding a new patient to the database and registering with a doctor.
 - Identifying which doctor made the most prescriptions.
 - A list of doctors who work at the hospital with the most beds.
+
+All SQL queries were tested in MySQL and outputs are included in the document.
