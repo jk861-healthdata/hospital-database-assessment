@@ -70,6 +70,13 @@ The SQL Queries document has been created using Microsoft Word and exported as a
 
 All SQL queries were tested in MySQL and outputs are included in the document.
 
+## References
+
+Location: /hospital-database-assessment/planning_docs/Reference List.pdf
+
+
+The Reference List document contains a list of all resources used in the completion of the assignment, including those materials most pertinent to my learning in preparation for this assignment. This includes MySQL documentation, GitHub documentation, University of Exeter guidance, and a citation Microsoft Co-Pilot AI software which was used to support learning and completion of the assignment. All sources have been formatted in the Harvard referencing style.
+
 ## Use of Artificial Intelligence (Disclaimer)
 
 Artificial intelligence was used in the completion of this assignment in accordance with University of Exeter guidance on use of generative AI. Microsoft co-pilot was used to aid learning, troubleshoot errors, develop ideas, aid understanding, provide feedback on my work, and assist with the planning and structure of this assignment.
