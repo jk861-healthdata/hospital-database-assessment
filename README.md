@@ -3,12 +3,33 @@
 - Computing Skills and Python
 - Assessment 1: Hospital Database Project
 
+## Project Overview
+
+This repository contains the full contents to be submitted for Assessment 1 in the Computing Skills and Python module. The assignment involved designing, implementing, and querying a relational database in MySQL. The documents uploaded in this repository demonstrate the development of skills including use of GitHub, code planning using pseudocode and Entity Relationship Diagrams (ERDs), creation of MySQL databases, and writing MySQL queries to retrieve data from databases.
+
+The hospital database I have created is streamlined to ensure that only relevant data is included and the tables I have created include 'Hospital', 'Doctors', 'Patients', and 'Prescriptions.' All planning documents and SQL queries have been included in the repository.
+
+## Repository Structure
+
+hospital-database-assessment/
+  planning_docs/
+    Entity Relationship Diagram.xlsx
+    Pseudocode.pdf
+  SQL/
+    SQL Queries.pdf
+  README.md
+  
 ## Entity Relationship Diagram (ERD)
 
-The Entity Relationship Diagram for this assignment has been created using Microsoft Excel. This is included in the repository under '/planning_docs/Entity Relationship Diagram.xlsx'.
-It reflects the final database schema used in MySQL and aligns with all SQL queries used in the assignment.
-It evidences my understanding of the relationships between data contained within different tables and my awareness of the importance of removing unnecessary data.
+Location: /hospital-database-assessment/planning_docs/Entity Relationship Diagram.xlsx
 
+The Entity Relationship Diagram for this assignment has been created using Microsoft Excel. It reflects the final database schema used in MySQL and aligns with all SQL queries used in the assignment. It evidences my understanding of the relationships between data contained within different tables and my awareness of the importance of removing unnecessary data.
+
+Key Relationships:
+- One Hospital < Many Doctors
+- One Doctor < Many Patients
+- One Doctor < Many Prescriptions
+- One Patient < Many Prescriptions
 
 ## Pseudocode
 
