@@ -72,7 +72,9 @@ All SQL queries were tested in MySQL and outputs are included in the document.
 
 ## Use of Artificial Intelligence (Disclaimer)
 
-Artificial intelligence was used in the completion of this assignment in accordance with University of Exeter guidance on use of generative AI. Microsoft co-pilot was used to aid learning, troubleshoot errors, develop ideas, aid understanding, provide feedback on my work, and assist with the planning and structure of this assignment. Hyperlinks to the main chat used to generate ideas is included in the reference list found in the planning_docs folder.
+Artificial intelligence was used in the completion of this assignment in accordance with University of Exeter guidance on use of generative AI. Microsoft co-pilot was used to aid learning, troubleshoot errors, develop ideas, aid understanding, provide feedback on my work, and assist with the planning and structure of this assignment.
+
+Note: Copilot does not provide exportable or shareable links to AI outputs. All AI‑assisted outputs are incorporated directly into the submitted assignment documents in accordance with University of Exeter guidance.
 
 ## Author
 - James Kelly
