@@ -1,5 +1,7 @@
-# hospital-database-assessment
-HPDM206Z Assessment 1 - Hospital Database Project
+# Hospital Database Assessment (HPDM206Z)
+University of Exeter - MSc Health Data Science
+Computing Skills and Python
+Assessment 1: Hospital Database Project
 
 ## Entity Relationship Diagram (ERD)
 
