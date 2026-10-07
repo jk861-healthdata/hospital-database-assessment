@@ -11,3 +11,15 @@ It evidences my understanding of the relationships between data contained within
 ## Pseudocode
 
 The pseudocode used in this assignment has been documented within Microsoft Word and exported as a PDF file. This is stored in the repository under '/planning_docs/Pseudocode.pdf'. It reflects the final database schema and SQL query logic implemented in MySQL. I decided to amend the pseudocode following its implementation in MySQL as the outcomes change in light of new information. A narrative around those changes is available to read in the Short Report document.
+
+
+## SQL Queries
+
+The SQL Queries document has been created using Microsoft Word and exported as a PDF file. This represents the finalised SQL queries used to extract the data required by the assignment. These include:
+
+- All doctors who work a particular hospital.
+- A list of prescriptions for a particular patient.
+- A list of all prescriptions prescribed by a particular doctor.
+- Adding a new patient to the database and registering with a doctor.
+- Identifying which doctor made the most prescriptions.
+- A list of doctors who work at the hospital with the most beds.
