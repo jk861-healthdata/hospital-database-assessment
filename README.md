@@ -7,7 +7,7 @@
 
 This repository contains the full contents to be submitted for Assessment 1 in the Computing Skills and Python module. The assignment involved designing, implementing, and querying a relational database in MySQL. The documents uploaded in this repository demonstrate the development of skills including use of GitHub, code planning using pseudocode and Entity Relationship Diagrams (ERDs), creation of MySQL databases, and writing MySQL queries to retrieve data from databases.
 
-The hospital database I have created is streamlined to ensure that only relevant data is included and the tables I have created include 'Hospital', 'Doctors', 'Patients', and 'Prescriptions.' All planning documents and SQL queries have been included in the repository.
+The hospital database I have created is streamlined to ensure that only relevant data is included and the final schema includes four tables: Hospital, Doctors, Patients, Prescriptions. All planning documents and SQL queries have been included in the repository.
 
 ## Repository Structure
 
@@ -35,12 +35,18 @@ Key Relationships:
 - One Doctor < Many Prescriptions
 - One Patient < Many Prescriptions
 
+Tables:
+- Hospital: HospitalID, Name, Beds, Accreditation
+- Doctors: DoctorID, Name, HospitalID
+- Patients: PatientID, Name, DOB, DoctorID
+- Prescriptions: PrescriptionID, DoctorID, PatientID, DrugName, DateIssued
+
 ## Pseudocode
 
 Location: /hospital-database-assessment/planning_docs/Pseudocode.pdf
 
 
-The pseudocode used in this assignment has been documented within Microsoft Word and exported as a PDF file. It reflects the final database schema and SQL query logic implemented in MySQL. I decided to amend the pseudocode following its implementation in MySQL as the outcomes change in light of new information. A narrative around those changes is available to read in the Short Report document.
+The pseudocode used in this assignment has been documented within Microsoft Word and exported as a PDF file. It reflects the final database schema and aligns perfectly with the final ERD and MySQL implementation. I decided to amend the pseudocode following its implementation in MySQL as the outcomes change in light of new information. A narrative around those changes is available to read in the Short Report document.
 
 Contents:
 - Database Creation
@@ -53,7 +59,7 @@ Contents:
 Location: /hospital-database-assessment/SQL/SQL Queries.pdf
 
 
-The SQL Queries document has been created using Microsoft Word and exported as a PDF file. This represents the finalised SQL queries used to extract the data required by the assignment. These include:
+The SQL Queries document has been created using Microsoft Word and exported as a PDF file. The SQL queries I have created meet each of the six tasks set out within assessment 1 guidance. All queries tested in MySQL have utilised the finalised database scheme. These include:
 
 - All doctors who work a particular hospital.
 - A list of prescriptions for a particular patient.
@@ -70,5 +76,10 @@ Artificial intelligence was used in the completion of this assignment in accorda
 
 ## Author
 - James Kelly
+- Student Number: 760072671
 - MSc Health Data Science
 - University of Exeter
+
+
+### GitHub Repository Link
+https://github.com/jk861-healthdata/hospital-database-assessment/
