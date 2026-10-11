@@ -93,7 +93,6 @@ Artificial intelligence was used in the completion of this assignment in accorda
 Note: Copilot does not provide exportable or shareable links to AI outputs. All AI‑assisted outputs are incorporated directly into the submitted assignment documents in accordance with University of Exeter guidance.
 
 ## Author
-- James Kelly
 - Student Number: 760072671
 - MSc Health Data Science
 - University of Exeter
