@@ -19,6 +19,7 @@ The hospital database I have created is streamlined to ensure that only relevant
 
   - SQL/
     - SQL Queries.pdf
+    - hospital_db_export.sql
 
   - README.md
   
@@ -69,6 +70,8 @@ The SQL Queries document has been created using Microsoft Word and exported as a
 - A list of doctors who work at the hospital with the most beds.
 
 All SQL queries were tested in MySQL and outputs are included in the document.
+
+The MySQL database (hospital_db_export.sql) I created and used to run the SQL queries above has been exported as a self-contained SQL file and can be found in the repository within the 'SQL' folder.
 
 ## Short Report
 
