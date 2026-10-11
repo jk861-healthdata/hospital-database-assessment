@@ -12,6 +12,11 @@ The hospital database I have created is streamlined to ensure that only relevant
 ## Repository Structure
 
 - hospital-database-assessment/
+
+  - AI_docs/
+    - AI Declaration.pdf
+    - Record_of_GenAI_use-jk861.pdf
+
   - planning_docs/
     - Entity Relationship Diagram.xlsx
     - Pseudocode.pdf
@@ -91,6 +96,13 @@ The Reference List document contains a list of all resources used in the complet
 Artificial intelligence was used in the completion of this assignment in accordance with University of Exeter guidance on use of generative AI. Microsoft co-pilot was used to aid learning, troubleshoot errors, develop ideas, aid understanding, provide feedback on my work, and assist with the planning and structure of this assignment.
 
 Note: Copilot does not provide exportable or shareable links to AI outputs. All AI‑assisted outputs are incorporated directly into the submitted assignment documents in accordance with University of Exeter guidance.
+
+The repository includes two additional documents that are required for this assessment:
+
+  - Record_of_GenAI_use-jk861.pdf
+  - AI Declaration.pdf
+
+These documents provide a transparent record of generative AI use in accordance with University of Exeter guidance.
 
 ## Author
 - Student Number: 760072671
